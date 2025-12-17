@@ -1,8 +1,8 @@
 ## Hi there! 👋 I'm Andry Mendoza (DreezDev)
 
-I'm a passionate software developer specializing in modern web technologies and building scalable applications. I love creating open-source tools and contributing to the developer community.
+Software developer with over 4 years of experience, specializing in building scalable solutions and continuously learning emerging technologies. I am a responsible and dedicated professional, passionate about process optimization and automation to achieve better results. Motivated to keep growing and deliver meaningful value in every challenge.
 
-### 🚀 Tech Stack
+### 🚀 My Stack
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
@@ -28,7 +28,7 @@ I'm a passionate software developer specializing in modern web technologies and 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </p>
 
-### 🌟 Featured Open Source Projects
+### 🌟 Open Source Projects
 
 [nest-jwt-template](https://github.com/DreezDev/nest-jwt-template)
 
@@ -45,4 +45,7 @@ Build browser extensions using Angular's powerful framework. This template simpl
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://dreez.dev)
 
 
-💡 *Always learning, always building, always sharing.*
+
+<img src="https://img.pokemondb.net/sprites/black-white/normal/gengar.png" height="40" alt="mongodb logo"  />
+
+*A wild Gengar appeared!* 
