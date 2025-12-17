@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Andry Mendoza (DreezDev)
+## Hi there! 👋 I'm Andry Mendoza (DreezDev)
 
 I'm a passionate software developer specializing in modern web technologies and building scalable applications. I love creating open-source tools and contributing to the developer community.
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
@@ -28,12 +28,14 @@ I'm a passionate software developer specializing in modern web technologies and 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </p>
 
-## 🌟 Featured Open Source Projects
+### 🌟 Featured Open Source Projects
 
-### [nest-jwt-template](https://github.com/DreezDev/nest-jwt-template)
+[nest-jwt-template](https://github.com/DreezDev/nest-jwt-template)
+
 A production-ready NestJS template with JWT authentication, perfect for kickstarting your backend projects with security best practices built-in.
 
-### [angular-web-extension](https://github.com/DreezDev/angular-web-extension)
+[angular-web-extension](https://github.com/DreezDev/angular-web-extension)
+
 Build browser extensions using Angular's powerful framework. This template simplifies the development of modern web extensions with Angular's component architecture.
 
 ### You can find me on
