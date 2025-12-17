@@ -33,7 +33,7 @@ Build browser extensions using Angular's powerful framework. This template simpl
   />
   <img
     src="https://img.pokemondb.net/sprites/black-white/normal/jigglypuff.png"
-    height="40"
+    height="60"
     alt="Jigglypuff sprite"
   />
   <br />
