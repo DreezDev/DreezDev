@@ -46,6 +46,13 @@ Build browser extensions using Angular's powerful framework. This template simpl
 
 
 
-<img src="https://img.pokemondb.net/sprites/black-white/normal/gengar.png" height="40" alt="mongodb logo"  />
+<p align="left">
+  <img
+    src="https://img.pokemondb.net/sprites/black-white/normal/gengar.png"
+    height="40"
+    alt="Gengar sprite"
+  />
+  <br />
+  <em>A wild Gengar appeared!</em>
+</p>
 
-*A wild Gengar appeared!* 
