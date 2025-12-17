@@ -31,6 +31,11 @@ Build browser extensions using Angular's powerful framework. This template simpl
     height="40"
     alt="Gengar sprite"
   />
+  <img
+    src="https://img.pokemondb.net/sprites/black-white/normal/jigglypuff.png"
+    height="40"
+    alt="Jigglypuff sprite"
+  />
   <br />
-  <em>A wild Gengar appeared!</em>
+  <em>A wild Gengar and Jigglypuff appeared!</em>
 </p>
