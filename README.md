@@ -42,8 +42,7 @@ Build browser extensions using Angular's powerful framework. This template simpl
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DreezDev)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/DreezDev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://dreez.dev)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-5d4c9d?style=for-the-badge)](https://dreez.dev)
 
 
 <p align="left">
@@ -55,4 +54,3 @@ Build browser extensions using Angular's powerful framework. This template simpl
   <br />
   <em>A wild Gengar appeared!</em>
 </p>
-
