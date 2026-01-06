@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Andry Mendoza (DreezDev)
 
-Software developer with over 4 years of experience, specializing in building scalable solutions and continuously learning emerging technologies. I am a responsible and dedicated professional, passionate about process optimization and automation to achieve better results. Motivated to keep growing and deliver meaningful value in every challenge.
+Software developer with over 4 years of experience, specializing in building scalable solutions. I am a responsible and dedicated professional, passionate about process optimization and automation to achieve better results. Motivated to keep growing and deliver meaningful value in every challenge.
 
 ### 🚀 My Stack
 
